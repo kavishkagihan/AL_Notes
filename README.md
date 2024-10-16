@@ -18,43 +18,43 @@ This repository contains a detailed and organized set of notes that I've put tog
 
 #### Math
 
-- Past Papers Collection:
+- [Past Papers Collection](./Maths/Papers):
 	- A comprehensive collection of past papers for **Grade 12** and **Grade 13**, organized term-wise for easier access.
 
-- Notes and Questions:
+- [Notes and Questions](./Maths):
 	- Detailed notes and questions on some topics in the syllabus.
 	- Some proofs needed for the exam
 
 #### Physics
 
-- Mind maps
-	- Study-friendly mind maps covering the full lessons on topics as:
-		- Heat
-		- Current Electricity
-		- Electric Field
-		- Gravitational Field
-		- Optics
-		- Simple Harmonic Motion
-		- Waves and Oscillations
+- [Mind maps](./Physics/Mindmaps)
+	- Study-friendly mind maps covering the full lessons on topics such as:
+		- [Heat](./Physics/Mindmaps/Heat.png)
+		- [Current Electricity](./Physics/Mindmaps/Current%20Electricity.png)
+		- [Electric Field](./Physics/Mindmaps/Electric%20Field.png)
+		- [Gravitational Field](./Physics/Mindmaps/Gravitational%20Field.png)
+		- [Optics](./Physics/Mindmaps/Optics.png)
+		- [Simple Harmonic Motion](./Physics/Mindmaps/Simple%20Harmonic%20Motion.png)
+		- [Waves and Oscillations](./Physics/Mindmaps/Waves%20and%20Oscillations.png)
 
-- Equations Summary
-	- A PDF containing 75% of the equations from the syllabus, covering Electric Field, Gravitational Field, Heat, Magnetic Field, Current Electricity, Matter and Radiation, Elasticity and Viscosity.
+- [Equations Summary](./Physics/Equations.md)
+	- A [PDF](./Physics/Equations.pdf) containing 75% of the equations from the syllabus, covering Electric Field, Gravitational Field, Heat, Magnetic Field, Current Electricity, Matter and Radiation, Elasticity and Viscosity.
 
-- Practicals
-	- A list of physics practicals organized in the same order as shown in the [DP Education](https://www.youtube.com/@DPEducationALSubjects), covering key experiments and lab activities with answers to structured questions in past papers.
+- [Practicals](./Physics/Practicals)
+	- A list of physics practicals organized in the same order as shown in the [DP Education](https://youtube.com/playlist?list=PLmLnnsAHQpTafYWvdg-Cakt-_2ez5jREZ&si=wWKQ9Ygcde0nWHLe), covering key experiments and lab activities with answers to structured questions in past papers.
 
-- Past Papers Collection
+- [Past Papers Collection](./Physics/Papers)
 	- A set of past papers to practice and review key topics
 
 #### ICT
 
-- Complete Notes of full syllabus:
+- [Complete Notes of full syllabus](./IT/01%20-%20Notes):
 	- Comprehensive notes covering the **entire syllabus**, with detailed explanations for all lessons.
 
-- Past Papers Collection:
+- [Past Papers Collection](./IT/Papers):
 	- A huge collection of AL and school past papers for thorough practice and revision.
 
-- Lesson-Wise Past Paper Questions:  
+- [Lesson-Wise Past Paper Questions](./IT/Papers/Question%20papers):  
 	- For certain lessons, past paper questions are organized **lesson-wise** for targeted revision.
 
 
@@ -65,7 +65,7 @@ If you'd like to make edits or additions to the notes, follow these steps to set
 1. **Clone or Download the Repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kavishkagihan/AL_Notes.git
 ```
 or download it as a ZIP file from GitHub and extract it.
 
@@ -76,7 +76,7 @@ or download it as a ZIP file from GitHub and extract it.
 	- Open the Folder as a New Vault
 	- Choose the folder where you cloned or downloaded the repository.
 
-4. Start Editing:
+4. **Start Editing**
 	- Once the vault is loaded, you can freely edit the notes, add more content, or even create new sections based on your needs.
 	- Feel free to contribute by submitting pull requests if you want to share your improvements!
 
