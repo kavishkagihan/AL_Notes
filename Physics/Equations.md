@@ -44,14 +44,9 @@ $$
 \begin{align*}
 \therefore \vec{E}A = \frac{Q}{\epsilon} \\
 \\ For\ a\ cylinder\,\\ \vec{E} &= \frac{1}{2\pi\epsilon}\frac{\lambda}{r}
-
 \\ For\ a\ conducting\ plate\,\\ \vec{E} &= \frac{\sigma}{\epsilon}
-
 \\ For\ an\ insulating\ plate\,\\ \vec{E} &= \frac{\sigma}{2\epsilon}
-
 \\ For parallel\ plate\ capacitors,\\ \vec{E} &= \frac{Q}{A\epsilon}
-
-
 \end{align*}
 $$
 
@@ -62,7 +57,6 @@ $$
 $$
 \begin{align*}  
 V &= \frac{1}{4\pi \epsilon} \frac{Q}{r}  \\
-
 V &= \vec{E}r
 \end{align*}
 $$
@@ -108,19 +102,14 @@ C &= 4\pi\epsilon R
 \\
 For\ parallel\ plate\ capacitors, \\
 C &= \frac{A\epsilon}{d}
-
 \\ Capacitors\ in\ series\ connection                 , \\
 \frac{1}{C} &= \frac{1}{C_1} + \frac{1}{C_2}
-
 \\ Capacitors\ in\ parallel\ connection, \\
 C &= C_1 + C_2
-
 \\ Capacitror\ with\ 2\ dielectric\ media\ - in\ series, \\
 C &= \frac{A \epsilon_1\epsilon_2}{d_1\epsilon_2 + d_2\epsilon_1}
-
 \\ Capacitror\ with\ 2\ dielectric\ media\ - in\ parallel, \\
  C &= \frac{A_1\epsilon_1 + A_2\epsilon_2}{d}
-
 \end{align*}
 $$
 
@@ -129,7 +118,6 @@ $$
 
 $$
 \begin{align*}
-
  E_p = \frac{1}{2}V_sQ = \frac{1}{2}CV_s^2 = \frac{1}{2}\frac{Q^2}{V_s}
 \end{align*}
 $$
@@ -179,11 +167,9 @@ $$
 
 $$
 \begin{align*}
-
 E_T &= E_k + E_p \\
 E_T &= \frac{1}{2}m\frac{GM}{r}-\frac{GMm}{r} \\
 E_T &= \frac{GMm}{r}
-
 \end{align*}
 $$
 9.  Minimum energy
@@ -263,7 +249,6 @@ $$
 10.  Ideal gas equation
 
 $$
-
 \begin{align*}
 PV &= nRT  \\ \\
 Other\ forms,\\
@@ -277,7 +262,6 @@ $$
 
 $$
 \begin{align*}
-
 \frac{V}{N} &= k \\ 
 (N &= nL)
 \end{align*}
@@ -297,7 +281,6 @@ For\ a\ molecule,\\
 PV &= \frac{1}{3}Nm_o\bar{c^2} 
 \\
 For\ a\ gass,\\
-
  PV &= \frac{1}{3}m\bar{c^2}\\
   P &= \frac{1}{3}\rho\bar{c^2}
 \end{align*}
@@ -315,7 +298,6 @@ $$
 
 $$
 \begin{align*}
-
 E_K &= (\frac{3}{2})(\frac{R}{L})T \\ \\ \frac{R}{L} =& Boltzman\ Constant (K)  \\ \\ \therefore E_K &= \frac{3}{2}KT  
 \end{align*}
 $$
@@ -329,18 +311,12 @@ In\ terms\ of\ vapour\ density, \\
 R.H &= \frac{\rho}{\rho_s} * 100 \% \\
 In\ terms\ of\ vapour\ mass (constant\ volume), \\
 R.H &= \frac{m}{m_s} * 100 \% \\
-
 In\ terms\ of\ vapour\ pressure, \\
 R.H &= \frac{P}{P_s} * 100 \% \\
-
 In\ terms\ of\ dew\ point, \\
 R.H &= \frac{S.V.P\ @\ \theta_D}{S.V.P\ @\ \theta_R} =  \frac{P_{SD}}{P_{SR}} * 100 \% \\
-
 In\ terms\ of\ absolute\ humidity, \\
 R.H &= \frac{A.H\ @\ \theta_R}{A.H\ @\ \theta_D} =  \frac{P_{R}}{P_{D}} * 100  \% \\
-
-
-
 \end{align*}
 $$ 
 17. Heat capacity
@@ -387,10 +363,8 @@ $$
 \begin{align*}
 For\ a\ whole\ gas,\\
 W &= P\delta V \\
-
 For\ a\ 1\ mole\ of\ gas,\\
 W_o &= C_p - C_v
-
 \end{align*}
 $$
 
@@ -419,15 +393,12 @@ $$
 $$
 \begin{align*}
 \delta Q &= \delta U + \delta W
-
 \\\\
 When\ work\ is\ done\ by\ the\ gas, \\
 \delta Q &= \delta U + \delta W
 \\
-
 When\ work\ is\ done\ on\ the\ gas, \\
 \delta Q &= \delta U - \delta W
-
 \end{align*}
 $$
 
@@ -435,22 +406,15 @@ $$
 
 $$
 \begin{align*}
-
 Isothermal\ process (\delta T = 0), \\
 \delta Q &= \delta W  \\ &\to P_1V_1 = P_2V_2\\  
-
 Adiabatic\ process (\delta Q = 0), \\
 \delta U &= - \delta  W  \\
 \delta U &= - P\delta V \\  &\to \frac{P_1V_1}{T_1} = \frac{P_2V_2}{T_2}\\
-
 Isobaric\ process (\delta P= 0), \\
 \delta Q &= \delta U + \delta W \\  &\to \frac{V_1}{T_1} = \frac{V_2}{T_2}\\
-
-
 Isochoric\ process (\delta V = 0), \\
 \delta Q &= \delta U  \\ &\to \frac{P_1}{T_1} = \frac{P_2}{T_2}\\
-
-
 \end{align*}
 $$
 
@@ -488,7 +452,6 @@ $$
 $$
 \begin{align*} 
 \frac{d\theta}{dt} &= \frac{KA}{mS}(\theta_S - \theta_R)  
-
 \\ \\
 Rate\ of\ cooling &= \frac{Rate\ of\ loosing\ heat}{mS}
 \end{align*}
@@ -631,7 +594,6 @@ $$
 \begin{align*}
 Series\ &network,\\
 R &= R_1 + R_2 + R_3\\\\
-
 Parallel\ &network,\\
 \frac{1}{R} &= \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3} 
  \end{align*}
@@ -650,7 +612,6 @@ $$
 
 $$
 \begin{align*}
-
 E &= VQ = VIt = I^2Rt = \frac{V^2t}{R}
 \end{align*}
 $$
@@ -667,10 +628,8 @@ $$
 
 $$
 \begin{align*}
-
 When\ current\ leaving\ (+)\ terminal,\\
 V &= E - Ir\\\\
-
 When\ current\ is\ leaving\ (-)\ terminal,\\
 V &= E + Ir\\\\
 \end{align*}
@@ -684,10 +643,8 @@ Series\ Network,\\
 E &= E_1 + E_2 + E_3\\
 r &= r_1 + r_2 + r_3\ (internal\ resistance)
 \\\\
-
 Parallel\ Network,\\
 \frac{E}{r} &= \frac{E_1}{r_1} + \frac{E_2}{r_2} + \frac{E_3}{r_3}
- 
 \end{align*}
 $$
 
@@ -695,10 +652,8 @@ $$
 
 $$
 \begin{align*}
-
 KCL,\\
 \Sigma I_{in} &= \Sigma I_{out}\\\\
-
 KVL,\\
 \Sigma E &= \Sigma IR
 \end{align*}
@@ -717,7 +672,6 @@ $$
 \begin{align*}
 Efficiency &= \frac{Power\ of\ external\ resistance}{Power\ of\ cell}*100 \% \\\\
 \eta &= \frac{R}{R+r}*100 \%
-
 \end{align*}
 $$
 
@@ -772,7 +726,6 @@ $$
 
 $$
 \begin{align*}
-
 a &= \frac{Energy\ absorbed\ by\ a\ surface}{Energy\ falls\ on\ that\ surface}\\
 \\
 &For\ black\ body \to a = 1
@@ -876,8 +829,8 @@ $$
 
 $$
 \begin{align*}
-\beta^{-}\ &particle \to  ^0_{-1}\beta \\
-\vec{V_e} \to& Anti-electro\ neutrino\\\\
+\beta^{-}\ & particle \to  ^0_{-1}\beta \\
+\vec{V_e} \to& Anti - electro\ neutrino\\\\
 ^b_aX \to& ^{(b)}_{(a+1)}Y +\ ^{0}_{-1}\beta + \vec{V_e}
 \\\\
 1\ neutron\ &converts\ to\ 1\ proton
@@ -901,7 +854,6 @@ $$
 
 $$
 \begin{align*}
-
 \frac{dN}{dt} &= -\lambda N\\
 N &= N_oe^{-\lambda t}
 \end{align*}
@@ -911,7 +863,6 @@ $$
 
 $$
 \begin{align*}
-
 A &= \lambda N
 \end{align*}
 $$
