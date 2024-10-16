@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "5bd10fb77ce0c3aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8d17b4beb78c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c160cc301f96f8f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/01 - Notes/12 - Competency/01 - Explores applicability of ICT to business organizations and the competitive marketplace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05fd903a45ef1ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f76da8cbc63935a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "215be8d4acd4aff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944b0c45a8af1efc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5127252128f15ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9314d195d53defd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 587.5110359191895
+  },
+  "right": {
+    "id": "0a053ab38667771f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bed5635d5d254ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c3988bd49a590d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7abb6dce0dd5148",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0df7c3b894c2fe3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "ad64a406fd4fed43",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Maths/eALOM Combine Maths Pactical Question.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "05fd903a45ef1ab8",
+  "lastOpenFiles": [
+    "IT/02 - Tutes/Competency 4/Competency_4.pdf",
+    "README.md",
+    "Physics/Equations.md",
+    "Physics/Equations.pdf",
+    "Physics/2-Physical_Quantities-and-Units.pdf",
+    "Physics/Papers/physics_grd_12_2019_i_en.pdf",
+    "Physics/vectors.pdf",
+    "IT/01 - Notes/12 - Competency/01 - Explores applicability of ICT to business organizations and the competitive marketplace.md",
+    "IT/01 - Notes/06 - Competency/00 - Competency 6.md",
+    "IT/01 - Notes_PDF/00 - Competency 13.pdf",
+    "IT/01 - Notes_PDF/00 - Competency 12.pdf",
+    "IT/01 - Notes_PDF/00 - Competency 10.pdf",
+    "IT/01 - Notes_PDF/00 - Competency 9.pdf",
+    "IT/01 - Notes_PDF/00 - Competency 8.pdf",
+    "IT/01 - Notes_PDF/00 - Competency 7.pdf",
+    "IT/01 - Notes/05 - Competency/00 - Competency 5.md",
+    "IT/01 - Notes/05 - Competency/01 - Uses of operating systems to manage the functionality of computers.md",
+    "IT/01 - Notes/04 - Competency/00 - Competency 4.md",
+    "IT/01 - Notes/03 - Competency/00 - Competency 3.md",
+    "IT/01 - Notes/02 - Competency/00 - Competency 2.md",
+    "IT/01 - Notes/01 - Competency/00 - Competency 1.md",
+    "IT/Untitled.md",
+    "IT/Index.md",
+    "IT/01 - Notes/01 - Competency/01 - Explores the basic concepts of ICT together with its role and applicability in today’s knowledge-based society.md",
+    "Physics/Practicals/06 - Verifying the law of parallelogram of forces.md",
+    "Physics/Practicals/34 - Determination of a cell's internal resistance using Potentiometer.md",
+    "Physics/Practicals/33 - Comparing the EMF of two cells using Potentiometer.md",
+    "Physics/Practicals/32B - Measuring tempeature coefficient of resistance of a metal using Meter bridge.md",
+    "Physics/Practicals/32A - Determination of an unknown resistance using Meter Bridge.md",
+    "Physics/Practicals/29 - Dew point and relative humidity of atmosphere.md",
+    "Physics/Practicals/28 - Determination of specific latent heat of vaporization of water using method of mixtures..md",
+    "Physics/Practicals/27 - Determination of specific latent heat of fusion of ice using method of mixtures..md",
+    "Physics/Practicals/26B - Finding the Specific heat capacity of a liquid using method of cooling.md",
+    "Physics/Practicals/26A - Verifying newton's cooling law.md",
+    "Physics/Practicals/25 - Determination of specific heat capacity of lead shots by the method of mixtures.md",
+    "Physics/Practicals/21B - Finding the focal distance of concave lens.md",
+    "assets/Excalidraw/Physics/practical_10_1.excalidraw.png",
+    "Physics/Mindmaps/Current Electricity.png",
+    "Physics/Mindmaps/Optics.png",
+    "assets/Images/Pasted image 20241001232225.png",
+    "assets/Images/Pasted image 20241001222925.png",
+    "assets/Images/Pasted image 20241001222812.png",
+    "assets/Images/Pasted image 20241001222557.png",
+    "assets/Images/Pasted image 20241001222104.png",
+    "assets/Images/Pasted image 20241001213732.png",
+    "assets/Images/Pasted image 20241001212109.png",
+    "Index.canvas"
+  ]
+}

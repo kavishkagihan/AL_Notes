@@ -1,0 +1,36 @@
+/* Header Background Colors */
+/* H1 */
+.markdown-preview-section h1 {
+    background-color: var(--H1Color);
+    color: var(--TextOnH1Background);
+}
+
+/* H2 */
+.markdown-preview-section h2 {
+    background-color: var(--H2Color);
+    color: var(--TextOnH2Background);
+}
+
+/* H3 */
+.markdown-preview-section h3 {
+    background-color: var(--H3Color);
+    color: var(--TextOnH3Background);
+}
+
+/* H4 */
+.markdown-preview-section h4 {
+    background-color: var(--H4Color);
+    color: var(--TextOnH4Background);
+}
+
+/* H5 */
+.markdown-preview-section h5 {
+    background-color: var(--H5Color);
+    color: var(--TextOnH5Background);
+}
+
+/* H6 */
+.markdown-preview-section h6 {
+    background-color: var(--H6Color);
+    color: var(--TextOnH6Background);
+}

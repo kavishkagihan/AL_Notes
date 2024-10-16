@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiQuestionMark",
+      "FarFilePdf",
+      "LiPlane",
+      "IbGraphLineUp",
+      "RiAttachment2"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "IT": "LiLaptop",
+  "assets": "RiAttachment2",
+  "Maths": "IbGraphLineUp",
+  "Physics": "LiPlane",
+  "IT/01 - Notes": "LiBook",
+  "IT/02 - Tutes": "FarFilePdf"
+}

@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:assets/Excalidraw  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: IT  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 13311
+      }
+    },
+    {
+      "query": "path: Maths  ",
+      "color": {
+        "a": 1,
+        "rgb": 65378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 0.960727272727273,
+  "lineSizeMultiplier": 2.07745454545455,
+  "collapse-forces": false,
+  "centerStrength": 0.514275517487509,
+  "repelStrength": 8.57244825124911,
+  "linkStrength": 1,
+  "linkDistance": 261,
+  "scale": 0.45050811767578125,
+  "close": true
+}

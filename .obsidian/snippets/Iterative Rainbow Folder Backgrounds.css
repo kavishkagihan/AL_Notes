@@ -1,0 +1,26 @@
+/* Define your color palette from darkest to lightest */
+:root {
+    --DarkestColor: rgba(51, 51, 51, 0.9); /* Slightly transparent dark color */
+    --DarkerColor: rgba(51, 51, 51, 0.7); /* Slightly more transparent dark color */
+    --FolderNameColor: #fff; /* White folder names */
+    /* Add more colors as needed for further levels */
+}
+
+/* Apply the colors to folders based on their level */
+.nav-folder-children .nav-folder {
+    --FolderColor: var(--DarkestColor); /* Default to the darkest color */
+
+    /* Adjust the color for each folder level */
+    --FolderColor: var(--DarkerColor); /* Level 1 (Darker Color) */
+}
+.nav-folder-children .nav-folder .nav-folder {
+    --FolderColor: var(--SemiTransparentGrey); /* Level 2 (Semi-transparent Grey) */
+}
+
+/* Apply the calculated colors to folder titles */
+.nav-folder-title {
+    background-color: var(--FolderColor);
+    border-radius: 5px;
+    margin-top: 2px;
+    color: var(--FolderNameColor); /* Set folder names to white */
+}

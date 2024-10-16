@@ -1,0 +1,4 @@
+![01 - Explores applicability of ICT to business organizations and the competitive marketplace](01%20-%20Explores%20applicability%20of%20ICT%20to%20business%20organizations%20and%20the%20competitive%20marketplace.md)
+![02 - Analyses the relationship between ICT and business operations](02%20-%20Analyses%20the%20relationship%20between%20ICT%20and%20business%20operations.md)
+
+![03 - Analyses the ICT in terms of generating and delivering an improved products and services to consumers](03%20-%20Analyses%20the%20ICT%20in%20terms%20of%20generating%20and%20delivering%20an%20improved%20products%20and%20services%20to%20consumers.md)

@@ -1,0 +1,6 @@
+![01 - Designs and develops database systems to manage data efficiently and effectively](01%20-%20Designs%20and%20develops%20database%20systems%20to%20manage%20data%20efficiently%20and%20effectively.md)
+![02 - Describes the main components of the relational database model](02%20-%20Describes%20the%20main%20components%20of%20the%20relational%20database%20model.md)
+![03 - Analyses the main components of a database system](03%20-%20Analyses%20the%20main%20components%20of%20a%20database%20system.md)
+![04 - Designs the conceptual schema of a database](04%20-%20Designs%20the%20conceptual%20schema%20of%20a%20database.md)
+![05 & 06 - Designs the logical schema of a database](05%20&%2006%20-%20Designs%20the%20logical%20schema%20of%20a%20database.md)
+![07 - Normalizes database schema to improve performance](07%20-%20Normalizes%20database%20schema%20to%20improve%20performance.md)

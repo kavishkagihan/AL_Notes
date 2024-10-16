@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 14,
+  "accentColor": "#474351",
+  "cssTheme": "Atom",
+  "translucency": true,
+  "monospaceFontFamily": "RobotoMono Nerd Font Mono",
+  "textFontFamily": "RobotoMono Nerd Font",
+  "interfaceFontFamily": "RobotoMono Nerd Font",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Iterative Rainbow Folder Backgrounds"
+  ]
+}

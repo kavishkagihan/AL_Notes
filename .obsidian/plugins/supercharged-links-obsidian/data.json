@@ -1,0 +1,50 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": false,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": ".md",
+      "matchCaseSensitive": false,
+      "match": "endswith",
+      "uid": "11c5-aa99",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": ".pdf",
+      "matchCaseSensitive": false,
+      "match": "endswith",
+      "uid": "0445-dea6",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": ".png",
+      "matchCaseSensitive": false,
+      "match": "endswith",
+      "uid": "df4d-012e",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}
