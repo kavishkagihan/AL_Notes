@@ -10,13 +10,18 @@ F =\frac{1}{4\pi\epsilon}\frac{Q_1Q_2}{r^2}
 $$
 
 2. Relative Permittivity
-$$
-\begin{align*}  Relative\ permitivity = \frac{\epsilon}{\epsilon_0} \\  \epsilon_0 = permivitity\ of\ vacuum \end{align*}$$
-3. Electric Field Intensity
 
 $$
 \begin{align*}
+Relative\ permitivity &= \frac{\epsilon}{\epsilon_0}\\
+\epsilon_0 &= permivitity\ of\ vacuum
+\end{align*}
+$$
 
+4. Electric Field Intensity
+
+$$
+\begin{align*}
 \vec{E} =& \frac{1}{4\pi\epsilon}\frac{Q}{r^2}  
 \end{align*}
 $$
@@ -82,7 +87,6 @@ $$
 
 $$
 \begin{align*}
-
 P_g = (\frac{\delta v}{ \delta d})
 \end{align*}
 $$
@@ -121,6 +125,7 @@ $$
  E_p = \frac{1}{2}V_sQ = \frac{1}{2}CV_s^2 = \frac{1}{2}\frac{Q^2}{V_s}
 \end{align*}
 $$
+
 # Gravitational Field
 
 1. Newtons Law of Gravitation
@@ -128,6 +133,7 @@ $$
  $$
  F = \frac{Gm_1m_2}{r^2}
  $$
+
 2. Gravitational Field Intensity
 
 $$
@@ -147,16 +153,17 @@ E_p = -mgr = Um
 $$
 
  5. Velocity of an artificial satellite
+
 $$
 v = \sqrt{\frac{GM}{r}}
 $$
 
-
- 6. Angular velocity of an artificial satellite
+6. Angular velocity of an artificial satellite
 
 $$
 \omega = \sqrt{\frac{GM}{r^3}}
 $$
+
 7. Time period of an artificial satellite
 
 $$
@@ -172,6 +179,7 @@ E_T &= \frac{1}{2}m\frac{GM}{r}-\frac{GMm}{r} \\
 E_T &= \frac{GMm}{r}
 \end{align*}
 $$
+
 9.  Minimum energy
 
 $$
@@ -238,6 +246,7 @@ $$
 $$
 \frac{P_1}{T_1} = \frac{P_2}{T_2}
 $$
+
 9. Combined gas equation
 
 $$
@@ -294,6 +303,7 @@ $$
 c &= \sqrt{\frac{3RT}{M}}  
 \end{align*}
 $$
+
 15. Kinetic energy of gas molecule
 
 $$
@@ -303,7 +313,6 @@ E_K &= (\frac{3}{2})(\frac{R}{L})T \\ \\ \frac{R}{L} =& Boltzman\ Constant (K)  
 $$
 
 16.  Relative Humidity
-
 
 $$
 \begin{align*}
@@ -319,11 +328,13 @@ In\ terms\ of\ absolute\ humidity, \\
 R.H &= \frac{A.H\ @\ \theta_R}{A.H\ @\ \theta_D} =  \frac{P_{R}}{P_{D}} * 100  \% \\
 \end{align*}
 $$ 
+
 17. Heat capacity
 
 $$
 H = C\theta
 $$
+
 18. Specific Heat Capacity
 
 $$
@@ -386,9 +397,7 @@ $$
 Atomicity (\gamma) = \frac{S_p}{S_v} =\frac{C_p}{C_v}
 $$
 
-
-
- 27. First law of thermodynamics
+27. First law of thermodynamics
 
 $$
 \begin{align*}
@@ -422,7 +431,6 @@ $$
 
 $$
 \begin{align*}
-
 Area\ under\ the\ graph = Workdone = P\delta V
 \\
 \\
@@ -467,6 +475,7 @@ $$
 # Magnetic Field
 
 1. Magnetic Flux Density
+
 $$
 \begin{align*}
 B = \frac{\phi}{A}
@@ -494,7 +503,9 @@ A &\to Area\\
 N &\to Number\ of\ turns
 \end{align*}
 $$
+
 4. Current sensitivity of Ammeter
+
 $$
 \begin{align*}
 \frac{BNA}{k} &= \frac{\theta}{I}
@@ -502,6 +513,7 @@ $$
 $$
 
 5. Voltage sensitivity of Ammeter
+
 $$
 \begin{align*}
 \frac{BNA}{kR} &= \frac{\theta}{V}
@@ -517,9 +529,9 @@ F &= Bq\vec{u}Sin(\theta)\\\\
 q &\to charge\\
 \vec{u} &\to drift\ velocity\\
 \theta &\to angle\ with\ the\ horizontal\\
-
 \end{align*}
 $$
+
 7. Bio-Savat laws
 
 $$
@@ -538,6 +550,7 @@ B &= \mu_o IN\\\\
 $$
 
 8. Hall voltage
+
 $$
 \begin{align*}
 V_{H} = B\vec{u}d = \frac{BI}{ten}\\
@@ -553,6 +566,7 @@ $$
 \begin{align*}
 I  &= \frac{Q}{t}  \\ \end{align*}
 $$
+
 2. Current Density
 
 $$
@@ -567,11 +581,13 @@ $$
 
 
 4. Ohm's Law
+
 $$
 V = IR
 $$
 
 5. Electric Resistance
+
 $$
 R = \frac{\rho l}{A}\\
 $$
@@ -588,7 +604,7 @@ $$
 R = R_o(1 + \alpha \theta)
 $$
 
- 8. Resistor networks
+8. Resistor networks
 
 $$
 \begin{align*}
@@ -600,6 +616,7 @@ Parallel\ &network,\\
 $$
 
 9. Root-mean-square for current and voltage (Used in AC current)
+
 $$
 \begin{align*}
 V_s \to peak\ voltage\\
@@ -608,6 +625,7 @@ V_{r.m.s} = \frac{V_s}{\sqrt{2}}\\
 I_{r.m.s} = \frac{I_s}{\sqrt{2}}
 \end{align*}
 $$
+
 10. Electrical Energy
 
 $$
@@ -637,7 +655,7 @@ $$
 
 13. Effective electromotive force of a cell network
 
- $$
+$$
 \begin{align*}
 Series\ Network,\\
 E &= E_1 + E_2 + E_3\\
@@ -660,6 +678,7 @@ KVL,\\
 $$
 
 15. Energy concept of a simple cell.
+
 $$
 \begin{align*}
 Power\ of\ cell &= Total\ power\ of\ resistors
@@ -670,12 +689,18 @@ $$
 
 $$
 \begin{align*}
+<<<<<<< HEAD
 Efficiency &= \frac{Power\ of\ external\ resistance}{Power\ of\ cell}*100 \% \\\\
 \eta &= \frac{R}{R+r}*100 \%
+=======
+Efficiency &= \frac{Power\ of\ external\ resistance}{Power\ of\ cell} * 100 \% \\\\
+\eta &= \frac{R}{R+r} * 100 \% \\
+>>>>>>> d531fd232cdbf4528d1cca8644bf3e5f53c98f0e
 \end{align*}
 $$
 
- 17.  Wheatstone bridge
+17.  Wheatstone bridge
+
 $$
 \begin{align*}
 \frac{R_1}{R_2} = \frac{R_3}{R_4}
@@ -683,6 +708,7 @@ $$
 $$
 
 18. Meter Bridge
+
 $$
 \begin{align*}
 l \to& balance\ length\\ \\
@@ -692,6 +718,7 @@ $$
 
 
 19. Potentiometer
+
 $$
 \begin{align*}
 l \to& balance\ length\\
@@ -704,6 +731,7 @@ $$
 # Matter and Radiation
 
 1. Speed of an electromagnetic wave
+
 $$
 \begin{align*}
 \epsilon \to Permitivity\\
@@ -733,6 +761,7 @@ a &= \frac{Energy\ absorbed\ by\ a\ surface}{Energy\ falls\ on\ that\ surface}\\
 $$
 
 4. Intensity of sound
+
 $$
 \begin{align*}
 I &= \frac{E}{At}
@@ -740,6 +769,7 @@ I &= \frac{E}{At}
 $$
 
 5. Stefan's Law
+
 $$
 \begin{align*}
 I &= \sigma T^4\\
@@ -749,6 +779,7 @@ For\ black\ &body \to E = At\sigma T^4
 $$
 
 6. Wien's Displacement Law
+
 $$
 \begin{align*}
 C \to Wien's\ Constant\\
@@ -759,6 +790,7 @@ C = \lambda_m T
 $$
 
 7. Planck-Einstein relation
+
 $$
 \begin{align*}
 h \to &Planck's\ constant \\\\
@@ -801,6 +833,7 @@ c \to& Speed\ of\ light \\
 $$
 
 11. De Broglie Wave length 
+
 $$
 \begin{align*}
 p \to& momentum \\\\
@@ -809,6 +842,7 @@ p \to& momentum \\\\
 $$
 
 12. X-ray tube (work done to move a charge b/w terminals)
+
 $$
 \begin{align*}
 eV = hf
@@ -868,6 +902,7 @@ A &= \lambda N
 $$
 
 18. Half life of an atom
+
 $$
 \begin{align*}
 T\frac{1}{2} = \frac{0.7}{\lambda}
@@ -879,6 +914,7 @@ $$
 # Elasticity
 
 1. Stress
+
 $$
 \begin{align*}
 \sigma = \frac{F}{A}
@@ -886,6 +922,7 @@ $$
 $$
 
 2. Strain
+
 $$
 \begin{align*}
 \epsilon = \frac{e}{l}
@@ -893,6 +930,7 @@ $$
 $$
 
 3. Hook's Law
+
 $$
 \begin{align*}
 \gamma =  \frac{Stres}{Strain} &= \frac{\sigma}{\epsilon}\\\\
@@ -902,14 +940,16 @@ $$
 
 
 4. Elastic Strain Energy
+
 $$
 \begin{align*}
-E_o &= \frac{1}{2}*Tension*Extension\\\\
-E_o &= \frac{1}{2}*Stress*Strain\\
+E_o &= \frac{1}{2} * Tension * Extension\\\\
+E_o &= \frac{1}{2} * Stress * Strain\\
 \end{align*}
 $$
 
 5. Force on a rod when expansion or compression is prevented
+
 $$
 \begin{align*}
 F = \gamma A \alpha (\delta\theta)
@@ -919,6 +959,7 @@ $$
 # Viscosity
 
 1. Newtons Law of viscosity (viscose b/w 2 liquid layers moving at `v1` and `v2`)
+
 $$
 \begin{align*}
 F &= \eta A \frac{(v_1 - v_2)}{d}\\\\
@@ -935,6 +976,7 @@ F = 6\pi r \eta v
 $$
 
 3. Acceleration of a small spherical object falling in a liquid medium
+
 $$
 \begin{align*}
 &\frac{(\sigma -\rho)g}{\sigma} - \frac{9\eta v}{2r^2 \sigma} = a\\\\
@@ -946,6 +988,7 @@ v &\to velocity\ of\ the\ sphere\\
 $$
 
 4. Terminal Velocity
+
 $$
 \begin{align*}
 v = \frac{2r^2g(\sigma - \rho)}{9\eta}
