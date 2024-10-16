@@ -1,11 +1,11 @@
 # AL_Notes
 
----
+
 # What is this?
 
 This repository contains a detailed and organized set of notes that I've put together throughout my AL studies. These notes cover key concepts, formulas, practical and principles in each subject, serving as a useful resource for revision or self-study.
 
----
+
 ## Current Status
 
 - **Completion:** The notes are currently about 90% complete. I am continuously working on finalizing and updating the content.
@@ -14,7 +14,6 @@ This repository contains a detailed and organized set of notes that I've put tog
 	- Physics
 	- ICT
 
----
 # What's Included
 
 #### Math
@@ -58,7 +57,7 @@ This repository contains a detailed and organized set of notes that I've put tog
 - Lesson-Wise Past Paper Questions:  
 	- For certain lessons, past paper questions are organized **lesson-wise** for targeted revision.
 
----
+
 # Edit Notes Yourself
 
 If you'd like to make edits or additions to the notes, follow these steps to set up your environment:
@@ -81,7 +80,7 @@ or download it as a ZIP file from GitHub and extract it.
 	- Once the vault is loaded, you can freely edit the notes, add more content, or even create new sections based on your needs.
 	- Feel free to contribute by submitting pull requests if you want to share your improvements!
 
----
+
 
 # Viewing Without Editing
 
@@ -93,12 +92,12 @@ If you don't wish to set up the environment for editing, no worries! I’ve incl
 - **Mind Map Images:**  
     The images of the mind maps are also included for direct viewing.
 
----
+
 # Notice
 
 While I have put considerable effort into compiling these notes, there may be inaccuracies or missed information. If you notice any errors or have suggestions for improvement, please don’t hesitate to reach out to me through my social media below or raise an issue in this repository. Your feedback is greatly appreciated and helps improve the quality of the content!
 
----
+
 # Contact 
 
 If you have any questions or for feedback, please reach out to me at [iamkavigihan@gmail.com](mailto:iamkavigihan@gmail.com) or contact me through the following socials.
@@ -106,7 +105,7 @@ If you have any questions or for feedback, please reach out to me at [iamkavigih
 Instagram - https://www.instagram.com/_kavi.gihan/
 Discord - https://discord.com/users/848889233758486528
 
----
+
 # Credits
 
 I would like to express my gratitude to the following individuals and channels that helped me throughout my AL studies and with this project:
@@ -119,7 +118,6 @@ I would like to express my gratitude to the following individuals and channels t
 - [Khan Academy](https://www.youtube.com/@KhanAcademyIndiaEnglish)
 - [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)
 
----
 # License
 
 This repository is licensed under the MIT License.
