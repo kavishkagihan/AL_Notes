@@ -93,6 +93,10 @@ If you don't wish to set up the environment for editing, no worries! I’ve incl
     The images of the mind maps are also included for direct viewing.
 
 
+# Known Issues
+
+When viewing PDF files through the GitHub web interface, you might encounter an error stating **"Error rendering embedded code"**. In that case, you should download the PDF to view it. Otherwise, you can view the README file within the repository.
+
 # Notice
 
 While I have put considerable effort into compiling these notes, there may be inaccuracies or missed information. If you notice any errors or have suggestions for improvement, please don’t hesitate to reach out to me through my social media below or raise an issue in this repository. Your feedback is greatly appreciated and helps improve the quality of the content!
@@ -104,6 +108,7 @@ If you have any questions or for feedback, please reach out to me at [iamkavigih
 
 Instagram - https://www.instagram.com/_kavi.gihan/
 Discord - https://discord.com/users/848889233758486528
+
 
 
 # Credits
